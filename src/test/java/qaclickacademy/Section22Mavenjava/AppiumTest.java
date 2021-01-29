@@ -22,4 +22,9 @@ public class AppiumTest {
 		
 		System.out.println("IOSApps");
 	}
+	
+public void IOSAppsdevelop() {
+		
+		System.out.println("IOSAppsdevelopgit");
+	}
 }
